@@ -20,7 +20,7 @@ FOUNDATION_EXPORT const unsigned char DotmetricsVersionString[];
 #import <Dotmetrics/DotmetricsMediaSettings.h>
 #import <Dotmetrics/DotmetricsMediaItem.h>
 #import <Dotmetrics/DotmetricsMediaSession.h>
-#import <Dotmetrics/DotmetricsAVPlayerWrapper.h>
+
 #import <Dotmetrics/DotmetricsAVPlayerViewController.h>
 #import <Dotmetrics/YTPlayerView.h>
 #import <Dotmetrics/DotmetricsYTPlayerViewWrapper.h>

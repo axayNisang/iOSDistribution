@@ -12,10 +12,6 @@
 		<data>
 		YfL/WIc88JsxrViDkA0N8qRrNhM=
 		</data>
-		<key>Headers/DotmetricsAVPlayerWrapper.h</key>
-		<data>
-		7G0N22sLPn/zdp1pg/GEGPlRn/c=
-		</data>
 		<key>Headers/DotmetricsMediaItem.h</key>
 		<data>
 		bur0f7W07/PXCIbfhBRdMrFXxDc=
@@ -73,17 +69,7 @@
 			t4U7ojPfEuaSxDILn256smFUll5oVk4wfpIB8O/VXhw=
 			</data>
 		</dict>
-		<key>Headers/DotmetricsAVPlayerWrapper.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7G0N22sLPn/zdp1pg/GEGPlRn/c=
-			</data>
-			<key>hash2</key>
-			<data>
-			w1OirrGBD+pv6N2wGfbHGKJyJ/SqtaOEScyylEbzRqY=
-			</data>
-		</dict>
+	
 		<key>Headers/DotmetricsMediaItem.h</key>
 		<dict>
 			<key>hash</key>
