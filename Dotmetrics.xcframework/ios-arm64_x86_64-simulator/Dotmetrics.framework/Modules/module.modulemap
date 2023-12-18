@@ -1,0 +1,6 @@
+framework module Dotmetrics {
+  umbrella header "Dotmetrics.h"
+
+  export *
+  module * { export * }
+}
